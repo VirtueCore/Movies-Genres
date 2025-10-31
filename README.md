@@ -1,4 +1,4 @@
-📂 HollRepository Description
+📂 Hollywood Movies Repository Description
 
 This repository is a practical exercise designed to help users strengthen their Linux command-line navigation skills. It simulates a real-world file system environment where learners must explore, locate, and read files using essential terminal commands.
 
